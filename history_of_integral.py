@@ -1,7 +1,7 @@
 import streamlit as st
 
 def show_history_of_integral():
-    st.title("History of Integral Calculus")
+    st.title("The Magic istory of Integral Calculus")
     st.image("img/history.png")
 
     st.write("""
